@@ -102,9 +102,15 @@ main:first-child a{
     text-decoration: none;
     line-height: .1;
 }
+nav a#home:hover {
+    color: #3333FF;
+}
 a#home {
     width: 15vw;
     left: 42.5vw;
+}
+nav a#about:hover {
+    color: #3333FF;
 }
 #about {
     right: 5vw;
