@@ -88,7 +88,7 @@ nav a {
     color: #3333FF;
     position: fixed;
     letter-spacing: 1px;
-    cursor: url(../IMG/CURSOR/p.svg) 20 4, pointer;
+    cursor: url(../IMG/CURSOR/p.svg) 10 2, pointer;
 }
 main {
     cursor: url(../IMG/CURSOR/d.svg) 0 0, default;
@@ -144,11 +144,11 @@ h1 a {
     color: black;
 }
 h1 a.link {
-    cursor: url(../IMG/CURSOR/p.svg) 20 4, pointer;
+    cursor: url(../IMG/CURSOR/p.svg) 10 2, pointer;
 }
 .link:hover {
     color: #FF3300;
-    cursor: url(../IMG/CURSOR/p.svg) 20 4, pointer;
+    cursor: url(../IMG/CURSOR/p.svg) 10 2, pointer;
 }
 #mobile {
     display: none;
@@ -202,7 +202,7 @@ article img {
     padding-bottom: 5vw;
 }
 article#menu a {
-    cursor: url(../IMG/CURSOR/p.svg) 20 4, pointer;
+    cursor: url(../IMG/CURSOR/p.svg) 10 2, pointer;
 }
 #menu {
     left: 5vw;
@@ -211,12 +211,12 @@ article#menu a {
 #photo {
     left: 25vw;
     width: 40vw;
-    cursor: url(../IMG/CURSOR/s.svg) 22 64, default;
+    cursor: url(../IMG/CURSOR/s.svg) 11 32, default;
 }
 #text {
     right: 5vw;
     width: 25vw;
-    cursor: url(../IMG/CURSOR/s.svg) 22 64, default;
+    cursor: url(../IMG/CURSOR/s.svg) 11 32, default;
 }
 nav a#date {
     font-family: helvetica, arial, sans-serif;
