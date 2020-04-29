@@ -103,14 +103,14 @@ main:first-child a{
     line-height: .1;
 }
 nav a#home:hover {
-    color: #3333FF;
+    color: #FF3300;
 }
 a#home {
     width: 15vw;
     left: 42.5vw;
 }
 nav a#about:hover {
-    color: #3333FF;
+    color: #FF3300;
 }
 #about {
     right: 5vw;
