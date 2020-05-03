@@ -207,6 +207,10 @@ article img {
     width: 100%;
     padding-bottom: 5vw;
 }
+article video {
+    width: 100%;
+    padding-bottom: 5vw;
+}
 article#menu a {
     cursor: url(../IMG/CURSOR/p.svg) 10 2, pointer;
 }
